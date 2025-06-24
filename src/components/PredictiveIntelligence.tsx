@@ -97,7 +97,7 @@ export const PredictiveIntelligence = () => {
                 </svg>
                 <div className="absolute inset-0 flex items-center justify-center">
                   <div className="text-center">
-                    <div className="text-4xl font-bold text-green-400">{accur acyProgress}%</div>
+                    <div className="text-4xl font-bold text-green-400">{accuracyProgress}%</div>
                     <div className="text-sm text-gray-400">Accuracy</div>
                   </div>
                 </div>
